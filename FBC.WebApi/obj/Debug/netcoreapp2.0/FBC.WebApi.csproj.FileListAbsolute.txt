@@ -1,0 +1,10 @@
+C:\projects\FBC\FBC.WebApi\bin\Debug\netcoreapp2.0\FBC.WebApi.deps.json
+C:\projects\FBC\FBC.WebApi\bin\Debug\netcoreapp2.0\FBC.WebApi.runtimeconfig.json
+C:\projects\FBC\FBC.WebApi\bin\Debug\netcoreapp2.0\FBC.WebApi.runtimeconfig.dev.json
+C:\projects\FBC\FBC.WebApi\bin\Debug\netcoreapp2.0\FBC.WebApi.dll
+C:\projects\FBC\FBC.WebApi\bin\Debug\netcoreapp2.0\FBC.WebApi.pdb
+C:\projects\FBC\FBC.WebApi\obj\Debug\netcoreapp2.0\FBC.WebApi.csproj.CoreCompileInputs.cache
+C:\projects\FBC\FBC.WebApi\obj\Debug\netcoreapp2.0\FBC.WebApi.AssemblyInfoInputs.cache
+C:\projects\FBC\FBC.WebApi\obj\Debug\netcoreapp2.0\FBC.WebApi.AssemblyInfo.cs
+C:\projects\FBC\FBC.WebApi\obj\Debug\netcoreapp2.0\FBC.WebApi.dll
+C:\projects\FBC\FBC.WebApi\obj\Debug\netcoreapp2.0\FBC.WebApi.pdb
